@@ -30,9 +30,5 @@ This project is a relational database design and implementation for an Online Bo
 ## Query Solutions
 - <a href="https://github.com/udayborana/SQL_Project_Onlinebookstore/blob/main/SQL-Project-Onlinebookstore-Solution.sql">Query_Solutions</a>
 
-
-
-
-
-
-
+## Conclusion
+This project demonstrates how a well-structured relational database can effectively manage an online bookstore’s core operations such as customers, orders, and books. By writing optimized queries, it highlights practical applications of SQL in handling real-world e-commerce data.It reflects a strong foundation in database design, query optimization, and data analysis—skills directly relevant to backend systems and business applications.
